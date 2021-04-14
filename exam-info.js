@@ -41,4 +41,6 @@ const students = [
   }
 ];
 
-// export students here:
+module.exports = {
+  students
+}
